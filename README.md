@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Peter7896/Peter7896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+P
+eter7896
 
-Here are some ideas to get you started:
+Open source contributor focused on practical security review, developer tooling, regression coverage, and maintainable documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+
+Security review: cloud perimeter evidence, secrets management gates, HIPAA resilience, and model evaluation release controls.
+Rust coverage: targeted tests for proof systems, serialization helpers, utility logic, and pairing wrappers.
+Developer tooling: CLI behavior coverage, Windows friendly fixtures, and reproducible validation notes.
+
+Recent Work
+
+Improved security control evidence checks for cloud, secrets management, prompt injection, and compliance workflows.
+Added focused regression coverage for Rust utility, serialization, and pairing helper code.
+Strengthened CLI behavior tests and documentation for small, reviewable open source changes.
+
+Working Style
+
+Small, reviewable pull requests with clear scope.
+Direct implementation notes for maintainers and reviewers.
+Validation commands included in pull request descriptions.
+
+Tech
+
+Rust, TypeScript, JavaScript, Python, Security Review, Test Coverage, CI

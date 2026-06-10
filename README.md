@@ -1,31 +1,35 @@
-Peter7896
+# Hi, I am Bin
 
-Open source contributor focused on practical security review, developer tooling, regression coverage, and maintainable documentation.
+I work on practical software maintenance:
 
-## Current Focus
+- bug fixes with regression tests
+- CI and build failure diagnosis
+- Windows/Linux compatibility fixes
+- CLI and developer-tooling issues
+- focused code review with clear bug reports
 
-Security review: cloud perimeter evidence, secrets management gates, HIPAA resilience, and model evaluation release controls.
+Recent work includes merged open-source pull requests across TypeScript, JavaScript, Python, and developer tooling projects.
 
-Rust coverage: targeted tests for proof systems, serialization helpers, utility logic, and pairing wrappers.
+## Available for Small Maintenance Projects
 
-Developer tooling: CLI behavior coverage, Windows friendly fixtures, and reproducible validation notes.
+I take focused software maintenance work through Upwork:
 
-## Recent Work
+- Bug fix with regression tests:
+  https://www.upwork.com/services/product/development-it-a-focused-bug-fix-with-regression-tests-2064586828753400754
+- CI/build failure fix:
+  https://www.upwork.com/services/product/development-it-a-fixed-ci-build-or-test-failure-with-validation-2064590380582302642
+- Practical code review with bug report:
+  https://www.upwork.com/services/product/development-it-a-practical-code-review-with-bug-report-2064591986858128306
 
-Improved security control evidence checks for cloud, secrets management, prompt injection, and compliance workflows.
+Upwork profile:
+https://www.upwork.com/freelancers/~0146130741360c4769
 
-Added focused regression coverage for Rust utility, serialization, and pairing helper code.
+## How I Usually Work
 
-Strengthened CLI behavior tests and documentation for small, reviewable open source changes.
+1. Reproduce the issue.
+2. Identify the root cause.
+3. Make a focused patch.
+4. Add or update tests.
+5. Provide clear validation steps.
 
-## Working Style
-
-Small, reviewable pull requests with clear scope.
-
-Direct implementation notes for maintainers and reviewers.
-
-Validation commands included in pull request descriptions.
-
-## Tech
-
-Rust, TypeScript, JavaScript, Python, Security Review, Test Coverage, CI
+I prefer small, reviewable changes with clear scope and evidence.
